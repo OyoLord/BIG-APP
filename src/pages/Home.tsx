@@ -14,9 +14,7 @@ export default function Home() {
         Gothic&nbsp;Tools
       </h1>
       <p className="mb-10 max-w-xl text-lg md:text-xl leading-relaxed">
-        Bienvenue dans notre application kitsch et flashy, où les ténèbres
-        rencontrent les néons. Explorez nos outils ludiques et laissez-vous
-        surprendre.
+        Bienvenue, vous êtes dans la merde.
       </p>
       <Link
         to="/tools"

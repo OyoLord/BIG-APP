@@ -5,12 +5,12 @@ import { Link } from 'react-router-dom';
 const tools = [
   {
     path: '/wheel',
-    title: 'Roue de la Fortune',
+    title: 'La Roue Cool',
     icon: '🎡',
   },
   {
     path: '/audio',
-    title: 'Lecteur Audio',
+    title: 'Usain Bolt',
     icon: '🔊',
   },
   {
@@ -30,7 +30,7 @@ export default function Tools() {
     <div className="min-h-screen flex flex-col py-8">
       <header className="text-center mb-6 px-4">
         <h2 className="text-3xl md:text-4xl font-neon text-neon-blue drop-shadow-[0_0_10px_rgba(0,255,255,0.7)]">
-          Choisissez un outil
+          Choisissez un jeu
         </h2>
       </header>
       <main className="flex-1 grid grid-cols-2 gap-4 px-4 md:px-8 max-w-4xl mx-auto">
