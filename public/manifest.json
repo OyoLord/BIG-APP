@@ -1,0 +1,21 @@
+{
+  "name": "Gothic Tools App",
+  "short_name": "GothicTools",
+  "description": "Une application web dark/gothique kitsch avec divers outils",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#9900ff",
+  "background_color": "#0a0a0b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
