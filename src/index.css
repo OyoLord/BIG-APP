@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Global styles for the application.  The body is dark by default and
+ * uses our gothic font.  Tailwind utilities handle most of the
+ * layout and typography.
+ */
+body {
+  @apply bg-gothic-background text-gray-100 font-gothic;
+}
